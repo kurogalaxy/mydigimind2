@@ -56,6 +56,7 @@ class HomeFragment : Fragment() {
         actividades.add(Actividad("Practice 5", arrayListOf("Friday"), "13:00"))
         actividades.add(Actividad("Practice 6", arrayListOf("Thursday"), "10:40"))
         actividades.add(Actividad("Practice 7", arrayListOf("Monday"), "12:00"))
+        actividades.add(Actividad("Practice 8", arrayListOf("Sunday"), "19:00"))
 
     }
 
